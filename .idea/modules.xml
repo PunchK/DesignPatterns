@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DecoratorModel/DecoratorModel.iml" filepath="$PROJECT_DIR$/DecoratorModel/DecoratorModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObservationModel/ObservationModel.iml" filepath="$PROJECT_DIR$/ObservationModel/ObservationModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyModel/StrategyModel.iml" filepath="$PROJECT_DIR$/StrategyModel/StrategyModel.iml" />
+    </modules>
+  </component>
+</project>
